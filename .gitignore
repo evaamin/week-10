@@ -27,3 +27,6 @@ cython_debug/
 
 # project
 .env
+
+# environment
+.venv/
